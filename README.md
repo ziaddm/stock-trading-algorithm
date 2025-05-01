@@ -1,5 +1,8 @@
 # stock-trading-algorithm
-### Trading algorithm/bot - Project is a work in progress (WIP)
+## Trading algorithm/bot - Project is a work in progress (WIP)
+
+### Current Features
+
 The user enters a stock symbol and the amount they want invested.
 
 The bot scrapes twitter and reddit posts related to the stock and analyzes the sentiment.
