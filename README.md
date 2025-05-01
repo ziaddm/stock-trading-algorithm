@@ -9,7 +9,7 @@ The bot scrapes twitter and reddit posts related to the stock and analyzes the s
 
 Then it analyzes the price history of the stock using several formulas to check if its in uptrend.
 
-If both conditions are true, the bot places a trade.
+If both conditions are true, the bot places a buy order and records it in our log file.
 
 ### WIP Features
 Improve automation by:
